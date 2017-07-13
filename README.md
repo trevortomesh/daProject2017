@@ -5,6 +5,7 @@ This is my readme. There are many like it but this one is mine.
 
 Edited by Moiz.
 
+
 What outcry have you uttered about my person, you oafish brute? I shall cordially remind you that I was the best scholar in my
 law class in Oxford, and I have been involved in several frivolous tea parties and courtroom disputes, and I have over 300
 boxes of Earl Gray. I am proficient in the Simian school of diplomacy and I am the top linguist in my book club. Know that you
@@ -17,3 +18,6 @@ that is just from Hamlet. The amount of knowledge that I have accrued is vast, a
 on such matters, you rapscallion. Truly, I wish you had some semblance of knowledge on the matter you have brought up and its
 repercussions. Alas, you did not, and now you will suffer a fate most dire, you plebeian. I shall defecate concentrated
 dislike upon you and you shall struggle to survive in its waters. Pistols at dawn, old boy.
+=======
+Second attempt at editing.
+
